@@ -162,7 +162,6 @@
 </div>
 
 <div id="dropDownSelect1"></div>
-
 <script src="${contextPath}/resources/vendor/jquery/jquery-3.2.1.min.js"></script>
 <script src="${contextPath}/resources/vendor/animsition/js/animsition.min.js"></script>
 <script src="${contextPath}/resources/vendor/bootstrap/js/popper.js"></script>
