@@ -38,10 +38,10 @@
             border: none; /* Remove border */
         }
         .navbar-custom .navbar-brand, .navbar-custom .navbar-nav > li > a {
-            color: #eb1212; /* White text color for contrast */
+            color: #080808; /* White text color for contrast */
         }
         .navbar-custom .navbar-nav > li > a:hover {
-            color: #ff0008; /* Change link color on hover */
+            color: #100f0f; /* Change link color on hover */
         }
         /* Ensure navbar is positioned correctly */
         .navbar-wrapper {
@@ -113,7 +113,7 @@
 
                 <div class="text-right p-t-8 p-b-31">
                     <a href="#">
-                        Forgot password?
+                        password bhul gya na tu 
                     </a>
                 </div>
 
