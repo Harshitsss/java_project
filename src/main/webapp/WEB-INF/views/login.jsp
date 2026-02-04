@@ -34,14 +34,14 @@
     <style>
         /* Navbar Styling */
         .navbar-custom {
-            background: rgba(0, 0, 0, 0); /* Transparent background */
+            background: rgba(231, 196, 196, 0); /* Transparent background */
             border: none; /* Remove border */
         }
         .navbar-custom .navbar-brand, .navbar-custom .navbar-nav > li > a {
-            color: #fff; /* White text color for contrast */
+            color: #eb1212; /* White text color for contrast */
         }
         .navbar-custom .navbar-nav > li > a:hover {
-            color: #007bff; /* Change link color on hover */
+            color: #ff0008; /* Change link color on hover */
         }
         /* Ensure navbar is positioned correctly */
         .navbar-wrapper {
