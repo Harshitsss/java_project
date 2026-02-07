@@ -149,7 +149,7 @@
                         <span class="icon-bar"></span>
                         <span class="icon-bar"></span>
                     </button>
-                    <a class="navbar-brand" href="${contextPath}/index">Pankaj Sharma Tech</a>
+                    <a class="navbar-brand" href="${contextPath}/index">harshit Tech</a>
                 </div>
                 <div class="collapse navbar-collapse" id="navbarCollapse">
                     <ul class="nav navbar-nav navbar-right"></ul>
